@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "tiny_mce_curblyadvimage"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{Curbly Advanced Images for Tiny MCE}
+    gem.description = %Q{Curbly Advanced Images for Tiny MCE}
     gem.email = "scyl88@gmail.com"
     gem.homepage = "http://github.com/wakiki/tiny_mce_curblyadvimage"
     gem.authors = ["Steve Leung"]
