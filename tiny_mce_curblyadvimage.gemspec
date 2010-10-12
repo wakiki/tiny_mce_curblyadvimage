@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{tiny_mce_curblyadvimage}
-  s.version = "0.1.0"
+  s.version = "0.2.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Steve Leung"]
@@ -23,6 +23,14 @@ Gem::Specification.new do |s|
      "README.rdoc",
      "Rakefile",
      "VERSION",
+     "lib/assets/plugins/curblyadvimage/css/advimage.css",
+     "lib/assets/plugins/curblyadvimage/editor_plugin.js",
+     "lib/assets/plugins/curblyadvimage/editor_plugin_src.js",
+     "lib/assets/plugins/curblyadvimage/image.htm",
+     "lib/assets/plugins/curblyadvimage/img/sample.gif",
+     "lib/assets/plugins/curblyadvimage/js/functions.js",
+     "lib/assets/plugins/curblyadvimage/langs/en.js",
+     "lib/assets/plugins/curblyadvimage/langs/en_dlg.js",
      "lib/tiny_mce_curblyadvimage.rb",
      "test/helper.rb",
      "test/test_tiny_mce_curblyadvimage.rb",
