@@ -20,4 +20,4 @@ end
 # Finally, tell the TinyMCEPaste Plugin to install itself. The install method
 # can be overwritten in the class definition above. TinyMCE::Plugin provide a
 # default one that will work fine in this example
-TinyMCEPaste.install
+TinyMCECurblyAdvImage.install
