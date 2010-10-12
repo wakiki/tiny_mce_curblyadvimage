@@ -25,7 +25,8 @@ Gem::Specification.new do |s|
      "VERSION",
      "lib/tiny_mce_curblyadvimage.rb",
      "test/helper.rb",
-     "test/test_tiny_mce_curblyadvimage.rb"
+     "test/test_tiny_mce_curblyadvimage.rb",
+     "tiny_mce_curblyadvimage.gemspec"
   ]
   s.homepage = %q{http://github.com/wakiki/tiny_mce_curblyadvimage}
   s.rdoc_options = ["--charset=UTF-8"]
